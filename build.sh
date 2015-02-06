@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t vertigo/java .
+docker build -t vertigo/docker-java .
